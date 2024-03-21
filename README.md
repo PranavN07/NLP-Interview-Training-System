@@ -7,6 +7,4 @@ As students respond to the questions, LDSART utilizes NLP techniques to evaluate
 
 The model then computes an overall percentile, offering an objective and fair evaluation of each student's potential. NDSARTstreamlines the screening process, ensures consistency, and eliminates biases, providing students with an efficient and effective method to optimize their resumes and responses.
 
-
-[image](https://github.com/PranavN07/NLP-Interview-Training-System/assets/97885764/2626afd4-e5cb-481b-8e88-d3cb4200d2b3)
-
+![image](https://github.com/PranavN07/NLP-Interview-Training-System/assets/97885764/dcac844e-18f5-41b8-80af-847f0ba88939)
